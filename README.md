@@ -2,6 +2,8 @@
 
 An AI-powered package delivery planning system that uses search algorithms to find optimal delivery routes in a grid-based environment with traffic constraints, stores, tunnels, and multiple destinations.
 
+<img width="930" height="728" alt="image" src="https://github.com/user-attachments/assets/ccb896a7-47bd-4bb2-a858-2d2f0897c2eb" />
+
 
 ## 🎯 Overview
 
@@ -74,6 +76,7 @@ mvn clean package
 # Run from compiled classes
 java -cp target/classes ai.proj.Main
 ```
+
 
 
 # package-delivery-agent
